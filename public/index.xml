@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strum Hum Hum</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Strum Hum Hum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    
+    <lastBuildDate>Sat, 24 Jan 2015 13:07:15 PST</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Basic Jazz Chords</title>
+      <link>http://localhost:1313/chords/intro-jazz-chords/</link>
+      <pubDate>Sat, 24 Jan 2015 13:07:15 PST</pubDate>
+      
+      <guid>http://localhost:1313/chords/intro-jazz-chords/</guid>
+      <description>
+
+&lt;h2 id=&#34;five-chords-with-two-positions-each:0378b297286362df4eb722d8baa93659&#34;&gt;Five chords with two positions each&lt;/h2&gt;
+
+&lt;div id=&#34;gdim7&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;Pulled shamelessly from &lt;a href=&#34;http://www.justinguitar.com/en/JA-001-JazzGuitarChords.php&#34; title=&#34;Justin Guitar&#34;&gt;Justin&lt;/a&gt; these are the first ones I need to memorize. They are Major 7th (Maj 7 or &amp;#x25B3;), Minor 7th (Min7 or &amp;ndash;), Dominant 7th (Dom7 or just 7), Minor 7b5 (Minor 7th flat 5, min7b5, -7b5), and Diminished 7 (dim or as &amp;#x25CB;).&lt;/p&gt;
+
+&lt;h3 id=&#34;major-7th:0378b297286362df4eb722d8baa93659&#34;&gt;Major 7th&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Gmaj7-root6.png&#34; alt=&#34;Gmaj7&#34; /&gt;
+
+&lt;img src=&#34;http://localhost:1313/Cmaj7-root5.png&#34; alt=&#34;Cmaj7&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;minor-7th:0378b297286362df4eb722d8baa93659&#34;&gt;Minor 7th&lt;/h3&gt;
+
+&lt;p&gt;&lt;div id=&#34;gmin7&#34;&gt;&lt;/div&gt;
+&lt;img src=&#34;http://localhost:1313/Gmin7-root6.png&#34; alt=&#34;Gmin7&#34; /&gt;
+
+&lt;img src=&#34;http://localhost:1313/Cmin7-root5.png&#34; alt=&#34;Cmin7&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;dominant-7th:0378b297286362df4eb722d8baa93659&#34;&gt;Dominant 7th&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/G7-root6.png&#34; alt=&#34;G7&#34; /&gt;
+
+&lt;img src=&#34;http://localhost:1313/C7-root5.png&#34; alt=&#34;C7&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;minor-7th-flat-5:0378b297286362df4eb722d8baa93659&#34;&gt;Minor 7th flat 5&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Gmin7b5.png&#34; alt=&#34;min7b5&#34; /&gt;
+
+&lt;img src=&#34;http://localhost:1313/Cmin7b5-root5&#34; alt=&#34;Cmin7b5&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;diminished-7:0378b297286362df4eb722d8baa93659&#34;&gt;Diminished 7&lt;/h2&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    var paper = Raphael(document.getElementById(&#34;gdim7&#34;), 200, 200);
+    var chord = new ChordBox(paper, 40, 40, 130, 140);
+    chord.setChord(
+        [[6, &#34;x&#34;], [5,4,2], [4,5,3], [3,3,1], [2,5,4], [1,&#34;x&#34;]],
+        1,
+        []);
+    chord.draw();
+
+    paper = Raphael(document.getElementById(&#34;gmin7&#34;), 200, 200);
+    chord = new ChordBox(paper, 40, 40, 130, 140);
+    chord.setChord(
+        [[6, 3, 2], [5, &#34;x&#34;], [4,3,3], [3,3,3], [2,3,3], [1,&#34;x&#34;]],
+        1,
+        [{from_string: 4, to_string: 2, fret: 3}]);
+    chord.draw();
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 24 Jan 2015 13:05:37 PST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;A low volume spot for chord progressions, exercises, and other guitar learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

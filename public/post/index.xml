@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Strum Hum Hum</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Strum Hum Hum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    
+    <lastBuildDate>Sat, 24 Jan 2015 13:07:15 PST</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Basic Jazz Chords</title>
+      <link>http://localhost:1313/post/intro-jazz-chords/</link>
+      <pubDate>Sat, 24 Jan 2015 13:07:15 PST</pubDate>
+      
+      <guid>http://localhost:1313/post/intro-jazz-chords/</guid>
+      <description>
+
+&lt;h2 id=&#34;five-chords-with-two-positions-each:0378b297286362df4eb722d8baa93659&#34;&gt;Five chords with two positions each&lt;/h2&gt;
+
+&lt;p&gt;Pulled shamelessly from &lt;a href=&#34;http://www.justinguitar.com/en/JA-001-JazzGuitarChords.php&#34; title=&#34;Justin Guitar&#34;&gt;Justin&lt;/a&gt; these are the first ones I need to memorize. They are Major 7th (Maj 7 or &amp;#x25B3;), Minor 7th (Min7 or &amp;ndash;), Dominant 7th (Dom7 or just 7), Minor 7b5 (Minor 7th flat 5, min7b5, -7b5), and Diminished 7 (dim or as &amp;#x25CB;).&lt;/p&gt;
+
+&lt;h3 id=&#34;major-7th:0378b297286362df4eb722d8baa93659&#34;&gt;Major 7th&lt;/h3&gt;
+
+&lt;h3 id=&#34;minor-7th-flat-5:0378b297286362df4eb722d8baa93659&#34;&gt;Minor 7th flat 5&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/min7b5.png&#34; alt=&#34;min7b4&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

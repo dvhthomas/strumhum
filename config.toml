@@ -1,0 +1,7 @@
+baseurl = "http://yourSiteHere"
+languageCode = "en-us"
+title = "Strum Hum Hum"
+
+[params]
+	Description = "Learning to play while humming along"
+	Author = "Dylan Thomas"
